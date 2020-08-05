@@ -1,0 +1,7 @@
+#explicit binary content (reduced diff).
+
+*.exe         binary
+
+*.manifest    text      eol=crlf
+
+*.cmd         text      eol=crlf
